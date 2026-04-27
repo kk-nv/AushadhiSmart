@@ -127,7 +127,7 @@ Once a match is found, `get_generic_alternatives()` pulls **all rows with the sa
 
 | Generic Medicine | Market Price (Est.) | Jan Aushadhi Price | You Save |
 |------------------|---------------------|-------------------|----------|
-| Paracetamol 500mg | ₹30.00 | ₹9.38 | 68.7% |
+| Paracetamol 500mg | ₹30.00 | ₹9.38 | 68.8% |
 | Pantoprazole 40mg | ₹145.00 | ₹11.35 | 92.2% |
 | Metformin 500mg | ₹123.75 | ₹24.75 | 80.0% |
 | Atorvastatin 10mg | ₹66.25 | ₹8.25 | 87.5% |
