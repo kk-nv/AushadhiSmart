@@ -1,0 +1,69 @@
+brand_name,generic_name,composition,strength,dosage_form,therapeutic_class,indication,branded_price,generic_price,pack_size,manufacturer_brand,jan_aushadhi_code
+Crocin,Paracetamol,Paracetamol,500mg,Tablet,Analgesic/Antipyretic,Fever and mild pain,30.00,5.50,10 tablets,GSK,PA014
+Dolo 650,Paracetamol,Paracetamol,650mg,Tablet,Analgesic/Antipyretic,Fever and moderate pain,32.00,6.75,15 tablets,Micro Labs,PA015
+Calpol,Paracetamol,Paracetamol,500mg,Tablet,Analgesic/Antipyretic,Fever and pain relief,28.50,5.50,10 tablets,GSK,PA014
+Combiflam,Ibuprofen + Paracetamol,Ibuprofen 400mg + Paracetamol 325mg,400+325mg,Tablet,NSAID Combination,Pain and inflammation,42.00,8.25,10 tablets,Sanofi,PA088
+Brufen 400,Ibuprofen,Ibuprofen,400mg,Tablet,NSAID,Pain inflammation fever,45.00,7.50,10 tablets,Abbott,PA039
+Augmentin 625,Amoxicillin + Clavulanic Acid,Amoxicillin 500mg + Clavulanic Acid 125mg,625mg,Tablet,Antibiotic,Bacterial infections,198.00,42.00,6 tablets,GSK,PC078
+Azithral 500,Azithromycin,Azithromycin,500mg,Tablet,Antibiotic (Macrolide),Respiratory and skin infections,124.00,28.50,5 tablets,Alembic,PC042
+Zithromax,Azithromycin,Azithromycin,500mg,Tablet,Antibiotic (Macrolide),Respiratory infections,156.00,28.50,3 tablets,Pfizer,PC042
+Cifran 500,Ciprofloxacin,Ciprofloxacin,500mg,Tablet,Antibiotic (Quinolone),UTI and bacterial infections,78.00,14.25,10 tablets,Sun Pharma,PC021
+Amoxil,Amoxicillin,Amoxicillin,500mg,Capsule,Antibiotic,Bacterial infections,68.00,12.50,10 capsules,GSK,PC005
+Pan 40,Pantoprazole,Pantoprazole,40mg,Tablet,PPI / Antacid,Acidity and GERD,145.00,22.50,15 tablets,Alkem,PG021
+Pantocid,Pantoprazole,Pantoprazole,40mg,Tablet,PPI / Antacid,Acid reflux ulcers,132.00,22.50,15 tablets,Sun Pharma,PG021
+Omez,Omeprazole,Omeprazole,20mg,Capsule,PPI / Antacid,Acidity ulcers GERD,89.00,14.00,10 capsules,Dr Reddys,PG018
+Rantac 150,Ranitidine,Ranitidine,150mg,Tablet,H2 Blocker,Acidity and ulcers,38.00,7.25,20 tablets,JB Chemicals,PG015
+Zintac,Ranitidine,Ranitidine,150mg,Tablet,H2 Blocker,Acidity,42.00,7.25,30 tablets,GSK,PG015
+Allegra 120,Fexofenadine,Fexofenadine,120mg,Tablet,Antihistamine,Allergy and rhinitis,112.00,24.50,10 tablets,Sanofi,PA082
+Cetzine,Cetirizine,Cetirizine,10mg,Tablet,Antihistamine,Allergy cold sneezing,35.00,4.75,10 tablets,Dr Reddys,PA043
+Okacet,Cetirizine,Cetirizine,10mg,Tablet,Antihistamine,Allergy,28.00,4.75,10 tablets,Cipla,PA043
+Avil 25,Pheniramine,Pheniramine Maleate,25mg,Tablet,Antihistamine,Allergy rashes,22.00,4.50,10 tablets,Sanofi,PA029
+Montair LC,Montelukast + Levocetirizine,Montelukast 10mg + Levocetirizine 5mg,10+5mg,Tablet,Antihistamine,Allergy and asthma,185.00,38.00,15 tablets,Cipla,PA145
+Telma 40,Telmisartan,Telmisartan,40mg,Tablet,Antihypertensive (ARB),High blood pressure,128.00,22.00,15 tablets,Glenmark,PC117
+Amlokind 5,Amlodipine,Amlodipine,5mg,Tablet,Antihypertensive (CCB),High blood pressure,38.00,6.50,10 tablets,Mankind,PC003
+Amlong,Amlodipine,Amlodipine,5mg,Tablet,Antihypertensive (CCB),Hypertension,42.00,6.50,15 tablets,Micro Labs,PC003
+Concor 5,Bisoprolol,Bisoprolol Fumarate,5mg,Tablet,Beta Blocker,High blood pressure,145.00,28.00,10 tablets,Merck,PC051
+Atenol,Atenolol,Atenolol,50mg,Tablet,Beta Blocker,Hypertension and angina,48.00,8.25,14 tablets,Zydus,PC008
+Ecosprin 75,Aspirin,Aspirin,75mg,Tablet,Antiplatelet,Heart attack prevention,18.00,3.25,14 tablets,USV,PC030
+Clopilet 75,Clopidogrel,Clopidogrel,75mg,Tablet,Antiplatelet,Heart disease prevention,102.00,18.50,10 tablets,Sun Pharma,PC056
+Atorva 10,Atorvastatin,Atorvastatin,10mg,Tablet,Statin / Lipid Lowering,High cholesterol,78.00,13.25,10 tablets,Zydus,PC012
+Rosuvas 10,Rosuvastatin,Rosuvastatin,10mg,Tablet,Statin / Lipid Lowering,High cholesterol,138.00,26.00,10 tablets,Sun Pharma,PC094
+Glycomet 500,Metformin,Metformin,500mg,Tablet,Antidiabetic,Type 2 diabetes,32.00,5.75,20 tablets,USV,PA172
+Glimepiride 1,Glimepiride,Glimepiride,1mg,Tablet,Antidiabetic,Type 2 diabetes,58.00,9.50,10 tablets,Various,PA086
+Janumet 50,Sitagliptin + Metformin,Sitagliptin 50mg + Metformin 500mg,50+500mg,Tablet,Antidiabetic,Type 2 diabetes,215.00,65.00,10 tablets,MSD,PA220
+Thyronorm 50,Levothyroxine,Levothyroxine Sodium,50mcg,Tablet,Thyroid Hormone,Hypothyroidism,128.00,24.00,100 tablets,Abbott,PH005
+Eltroxin,Levothyroxine,Levothyroxine Sodium,50mcg,Tablet,Thyroid Hormone,Hypothyroidism,115.00,24.00,100 tablets,GSK,PH005
+Calcium Sandoz,Calcium Carbonate + Vit D3,Calcium 500mg + Vit D3 250IU,500mg,Tablet,Calcium Supplement,Calcium deficiency,92.00,18.50,15 tablets,Sandoz,PN034
+Shelcal 500,Calcium Carbonate + Vit D3,Calcium 500mg + Vit D3 250IU,500mg,Tablet,Calcium Supplement,Calcium deficiency,128.00,18.50,15 tablets,Torrent,PN034
+Cobadex CZS,Multivitamin + Minerals,Multivitamin with Zinc,1 tablet,Tablet,Nutritional Supplement,Vitamin deficiency,148.00,32.00,20 tablets,GSK,PN012
+Zincovit,Multivitamin + Zinc,Multivitamin with minerals,1 tablet,Tablet,Nutritional Supplement,Vitamin deficiency,135.00,32.00,15 tablets,Apex,PN012
+Becosules,Vitamin B Complex,B-Complex with Vit C,1 capsule,Capsule,Vitamin Supplement,B-complex deficiency,98.00,18.00,20 capsules,Pfizer,PN008
+Neurobion Forte,Vitamin B Complex,B1 B6 B12 Complex,1 tablet,Tablet,Vitamin Supplement,Nerve weakness,115.00,22.50,30 tablets,Merck,PN009
+Evion 400,Vitamin E,Vitamin E Acetate,400mg,Capsule,Vitamin Supplement,Vitamin E deficiency,75.00,14.50,20 capsules,Merck,PN023
+Sinarest,Paracetamol + Phenylephrine + CPM,Paracetamol + Cold relief combo,500mg,Tablet,Cold and Flu,Common cold,58.00,11.25,10 tablets,Centaur,PA112
+Vicks Action 500,Paracetamol + Phenylephrine + Caffeine,Cold and flu combo,500mg,Tablet,Cold and Flu,Cold headache congestion,48.00,11.25,10 tablets,P&G,PA112
+D Cold Total,Paracetamol + Phenylephrine + CPM,Cold relief combination,500mg,Tablet,Cold and Flu,Common cold and fever,52.00,11.25,10 tablets,Reckitt,PA112
+Ascoril LS,Ambroxol + Levosalbutamol + Guaifenesin,Cough syrup combination,100ml,Syrup,Expectorant,Productive cough,145.00,38.00,100ml bottle,Glenmark,PR021
+Benadryl,Diphenhydramine,Diphenhydramine,100ml,Syrup,Antihistamine Cough,Dry cough,118.00,28.00,100ml bottle,J&J,PR008
+Corex DX,Dextromethorphan + CPM,Cough suppressant,100ml,Syrup,Antitussive,Dry cough,95.00,22.00,100ml bottle,Pfizer,PR012
+Dulcoflex,Bisacodyl,Bisacodyl,5mg,Tablet,Laxative,Constipation,28.00,5.25,10 tablets,Boehringer,PG008
+Cremaffin,Liquid Paraffin + Milk of Magnesia,Laxative combination,170ml,Syrup,Laxative,Constipation,158.00,45.00,170ml bottle,Abbott,PG009
+ORS Powder,Oral Rehydration Salts,WHO ORS formula,21g,Sachet,Electrolyte,Dehydration,18.00,4.50,21g sachet,Various,PN001
+Norflox TZ,Norfloxacin + Tinidazole,Norfloxacin 400mg + Tinidazole 600mg,400+600mg,Tablet,Antibiotic,Diarrhea and dysentery,62.00,12.50,6 tablets,Cipla,PC067
+Metrogyl 400,Metronidazole,Metronidazole,400mg,Tablet,Antibiotic,Amoebic infections,38.00,7.00,10 tablets,JB Chemicals,PC069
+Nexito 10,Escitalopram,Escitalopram,10mg,Tablet,Antidepressant,Depression and anxiety,148.00,28.00,10 tablets,Sun Pharma,PN076
+Restyl 0.25,Alprazolam,Alprazolam,0.25mg,Tablet,Anxiolytic,Anxiety,42.00,8.25,10 tablets,Sun Pharma,PN042
+Asthalin Inhaler,Salbutamol,Salbutamol,100mcg,Inhaler,Bronchodilator,Asthma,185.00,45.00,200 doses,Cipla,PR035
+Foracort Inhaler,Formoterol + Budesonide,Inhaler combination,6mcg+200mcg,Inhaler,Asthma Combination,Asthma COPD,485.00,185.00,120 doses,Cipla,PR089
+Levipil 500,Levetiracetam,Levetiracetam,500mg,Tablet,Anti-epileptic,Epilepsy seizures,242.00,52.00,10 tablets,Sun Pharma,PN098
+Lonazep 0.5,Clonazepam,Clonazepam,0.5mg,Tablet,Anti-epileptic,Anxiety and seizures,48.00,9.75,10 tablets,Sun Pharma,PN041
+Udiliv 300,Ursodeoxycholic Acid,Ursodeoxycholic Acid,300mg,Tablet,Hepatoprotective,Liver disease gallstones,278.00,68.00,10 tablets,Abbott,PG045
+Livogen,Iron + Folic Acid,Ferrous Fumarate + Folic Acid,1 tablet,Tablet,Iron Supplement,Iron deficiency anemia,68.00,12.50,10 tablets,Merck,PN018
+Sporlac,Lactic Acid Bacillus,Probiotic,1 tablet,Tablet,Probiotic,Diarrhea and gut health,58.00,14.00,10 tablets,Sanzyme,PG032
+Gelusil MPS,Magnesium Hydroxide + Aluminum Hydroxide + Simethicone,Antacid suspension,170ml,Syrup,Antacid,Acidity and gas,112.00,32.00,170ml bottle,Pfizer,PG042
+Digene,Magnesium Hydroxide + Aluminum Hydroxide + Simethicone,Antacid gel,200ml,Syrup,Antacid,Acidity heartburn,118.00,32.00,200ml bottle,Abbott,PG042
+Volini Gel,Diclofenac Diethylamine,Diclofenac topical,30g,Gel,NSAID Topical,Muscle joint pain,125.00,42.00,30g tube,Sun Pharma,PA187
+Moov,Methyl Salicylate + Menthol,Topical analgesic,30g,Cream,Topical Analgesic,Back and muscle pain,95.00,32.00,30g tube,Reckitt,PA165
+Betadine,Povidone Iodine,Povidone Iodine,5%,Solution,Antiseptic,Wound disinfection,78.00,22.50,100ml bottle,Win-Medicare,PA102
+Dettol Antiseptic,Chloroxylenol,Chloroxylenol,4.8%,Solution,Antiseptic,Wound and skin antiseptic,145.00,38.00,100ml bottle,Reckitt,PA104
+Savlon,Chlorhexidine + Cetrimide,Antiseptic combo,4.8%,Solution,Antiseptic,Wound care,92.00,28.00,100ml bottle,ITC,PA103
